@@ -1,0 +1,6 @@
+# For backend
+/backend/node_modules
+
+# For frontend
+/frontend/node_modules
+/frontend/build
