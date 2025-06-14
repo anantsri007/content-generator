@@ -136,7 +136,7 @@ import {
 // const API_BASE = process.env.REACT_APP_API_URL;
 
 // const API_BASE = "https://content-generator-3.onrender.com";
-const API_BASE = "https://content-generator-3.onrender.com/api/generate-content";
+const API_BASE = "https://content-generator-3.onrender.com/api";
 
 
 
